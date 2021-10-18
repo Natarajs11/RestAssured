@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-17T00:45:36 BST" name="Default suite" finished-at="2021-10-17T00:45:43 BST" duration-ms="7320">
+    <groups>
+    </groups>
+    <test started-at="2021-10-17T00:45:36 BST" name="Default test" finished-at="2021-10-17T00:45:43 BST" duration-ms="7320">
+      <class name="Rest_Api_Methods.TC_002_Post_Request">
+        <test-method signature="get_post_data()[pri:0, instance:Rest_Api_Methods.TC_002_Post_Request@39529185]" started-at="2021-10-17T00:45:36 BST" name="get_post_data" finished-at="2021-10-17T00:45:43 BST" duration-ms="7145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_post_data -->
+      </class> <!-- Rest_Api_Methods.TC_002_Post_Request -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
